@@ -1,0 +1,23 @@
+/* CABECERA */
+
+.cabecera {
+  text-align: center;
+  font-family: Helvetica;
+}
+.cabecera h1 {
+  margin-block-end: 0.02em;
+}
+.cabecera h3 {
+  margin-block-start: 0.02em;
+  margin-block-end: 0.02em;
+}
+
+.menuCabecera .linkc {
+  margin-left: 20px;
+}
+
+.contenedorMain {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
